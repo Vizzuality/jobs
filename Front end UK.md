@@ -32,3 +32,7 @@ This is what we do: http://vizzuality.com
 
 If you are interested, contact craig.mills@vizzuality.com 
 Send a CV, links to your online things like github, dribbble, blogs, etc.
+
+##Closing Date##
+
+We'll be reviewing applicants on the 30th January.  Don't worry if you have missed the deadline, we are always interested to hear from good people wanting to do great work.
