@@ -1,7 +1,6 @@
 #VIZZUALITY SOFTWARE ENGINEER - FRONT END#
 
 ![Cambridge Map](/images/cambridge.jpg)
-Format: ![Alt Text](url)
 
 Vizzuality is looking for front end engineers to make magical data visualisations on the web. We would like human beans that can build elegant web applications. 
 
