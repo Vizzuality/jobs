@@ -8,7 +8,7 @@ At Vizzuality, we work at the "edge of APIs" so you should be comfortable making
 
 ##Responsibilities##
 
-Specialize in using advanced HTML, CSS, and JavaScript. In particular using these powers to make maps and other data visualisations.
+Specialise in using advanced HTML, CSS, and JavaScript. In particular using these powers to make maps and other data visualisations.
 Contribute to testing and implementation of the front-end with our team of engineers, designers, scientists and product folks.
 Research and prototype new ways of showing things. Occasionally dip into other elements of the stack, typically ruby, SQL and CartoDB.
 
