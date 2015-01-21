@@ -4,7 +4,7 @@
 
 Vizzuality is looking for front end engineers to make magical data visualisations on the web. We would like human people that can build elegant web applications.  
 
-At Vizzuality, we work at the "edge of APIs" so you should be comfortable making things you haven't seen before. We seek individuals that lean towards strong design and have an interest in making other human beans excited by their work.
+At Vizzuality, we work at the "edge of APIs" so you should be comfortable making things you haven't seen before. We seek individuals that lean towards strong design and have an interest in making other human beings excited by their work.
 
 ##Responsibilities##
 
